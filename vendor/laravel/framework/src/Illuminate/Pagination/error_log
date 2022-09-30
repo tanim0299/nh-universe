@@ -1,0 +1,1 @@
+[12-Jul-2022 10:31:03 UTC] PHP Deprecated:  Function create_function() is deprecated in /home/halalbuycom/public_html/vendor/laravel/framework/src/Illuminate/Pagination/Pagination.php on line 2

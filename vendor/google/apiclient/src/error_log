@@ -1,0 +1,1 @@
+[11-May-2022 14:38:00 UTC] PHP Fatal error:  Namespace declaration statement has to be the very first statement or after any declare call in the script in /home/halalbuycom/public_html/vendor/google/apiclient/src/Client.php on line 19
